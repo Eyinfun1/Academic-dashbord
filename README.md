@@ -14,7 +14,7 @@ A prototype advising tool to help academic advisors identify at-risk students an
 - `academic_dashboard_wireframes.drawio` — Wireframes (open with draw.io)
 - `Untitled_Diagram.pdf` — Diagram export
 
-## Demo Video
+## Screen Prototype video
 [Watch the paper prototype walkthrough https://drive.google.com/file/d/1g9Mkt8jjTHyMdOjrgl3HOyWrvvSAH-5H/view
 
 ## Team
